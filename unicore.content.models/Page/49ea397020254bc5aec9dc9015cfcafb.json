@@ -6,12 +6,12 @@
   "primary_category": "2bb19f898f0345ca9ff60e37edcb2781", 
   "created_at": "2016-01-21T09:37:38+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-01-22T04:02:58.523632+00:00", 
+  "modified_at": "2016-01-22T04:07:46.529334+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "fec2f17ab45d448bbb91c808f20448c3", 
   "published": null, 
-  "position": 13, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Can_you_get_HIV_and_STI_from_kissing", 
   "uuid": "49ea397020254bc5aec9dc9015cfcafb"
