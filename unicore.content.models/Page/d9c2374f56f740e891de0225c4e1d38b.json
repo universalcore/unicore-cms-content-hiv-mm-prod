@@ -6,12 +6,12 @@
   "primary_category": "9d45ea3091784413a5a7b88ceafc08fd", 
   "created_at": "2016-02-03T08:47:14.002315+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-02-03T08:47:14.002620+00:00", 
+  "modified_at": "2016-02-03T10:26:25.874364+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "a5e3a2a0e36c4519b729eff034052d6b", 
   "published": null, 
-  "position": 0, 
+  "position": 5, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Should_everyone_get_tested_for_hiv", 
   "uuid": "d9c2374f56f740e891de0225c4e1d38b"
